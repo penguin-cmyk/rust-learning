@@ -35,9 +35,21 @@
 
 - *b represents the string as a byte so e.g b'Hello world'*
 ------------------------------------- 
--> floating-point numbers 
+-> Floating-point numbers 
 - Floating point numbers are numbers with decimal points
 ```rust
   let x = 2.0; // f64
   let y: f32 = 3.0 // f32
 ```
+-------------------------------------
+-> Booleans 
+- Booleans are 2 possible values true and false
+  - aswell booleans are only *1 byte in size*
+  - they are specified using *bool*
+```rust
+  let f: bool = true;
+  let m = false;
+```
+-------------------------------------
+
+
