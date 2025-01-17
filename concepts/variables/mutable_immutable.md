@@ -14,7 +14,7 @@ let immutable = 2;
 immutable = 3;
 ```
 >  [❌] This will error when compiling since the value immutable
-  (^^^ cannot assign twice to immutable variable)
+>  (^^^ cannot assign twice to immutable variable)
 ------------------------------------------------
 - Now lets see what happens when assinging a mutable variable a differnt value
 ```rust
