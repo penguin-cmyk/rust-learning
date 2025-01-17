@@ -1,4 +1,4 @@
-- [🦀] Defining variables in rust  
+# [🦀] concept of mutabality and immutability
 ```rust
 let immutable = 2;
 let mut mutable = 2;
@@ -23,3 +23,5 @@ mutable = 3;
 ```
 
 - [✅] This will compile without any errors
+------------------------------------------------
+Rust variables are immutable by default to ensure safety when writing your rust programm
