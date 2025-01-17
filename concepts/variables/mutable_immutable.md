@@ -1,4 +1,4 @@
-# [🦀] concept of mutabality and immutability
+# [🦀] Concept of Mutabality and Immutability
 ```rust
 let immutable = 2;
 let mut mutable = 2;
