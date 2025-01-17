@@ -37,6 +37,7 @@
 ------------------------------------- 
 -> floating-point numbers 
 - Floating point numbers are numbers with decimal points
-  - ```rust
-    let x = 2.0; // f64
-    let y: f32 = 3.0 // f32 ```
+```rust
+  let x = 2.0; // f64
+  let y: f32 = 3.0 // f32
+```
