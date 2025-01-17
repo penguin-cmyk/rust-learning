@@ -8,7 +8,7 @@
     - booleans
     - characters
 -------------------------------------      
--> Integer types in rust
+-> Integer types in rustmain.go
 |  Length | Signed | Unsigned |    
 | ------- | -------| -------- |    
 | 8-bit   |  i8    | u8       |   
@@ -48,7 +48,7 @@
   - they are specified using *bool*
 ```rust
   let f: bool = true;
-  let m = false;
+  let m = false;main.go
 ```
 -------------------------------------
 -> Characters 
@@ -58,6 +58,6 @@
   - represents a UNICODE scalar value (*means that it can represent a lot more than just ascii*)
 ```rust
   let c: char = "z";
-  let carb = "🦀";
+  let crab = "🦀";
 ```
 
