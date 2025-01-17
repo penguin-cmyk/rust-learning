@@ -13,7 +13,7 @@ let mut mutable = 2;
 let immutable = 2;
 immutable = 3;
 ```
-- [❌] This will error when compiling since the value immutable
+>  [❌] This will error when compiling since the value immutable
   (^^^ cannot assign twice to immutable variable)
 ------------------------------------------------
 - Now lets see what happens when assinging a mutable variable a differnt value
@@ -21,7 +21,6 @@ immutable = 3;
 let mut mutable = 2;
 mutable = 3;
 ```
-
-- [✅] This will compile without any errors
+> [✅] This will compile without any errors
 ------------------------------------------------
 Rust variables are immutable by default to ensure safety when writing your rust programm
