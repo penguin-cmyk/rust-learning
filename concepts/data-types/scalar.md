@@ -1,4 +1,4 @@
-# [🦀] Data Types in rust 
+# [🦀] Scalar Types in rust 
 -------------------------------------
 - Scalar types
   - Scalar types represent a single value 
