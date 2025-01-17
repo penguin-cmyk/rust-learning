@@ -1,2 +1,2 @@
 ### Where can these concepts be found in the book?
-- variables: chapter 3
+- variables & data types: chapter 3
