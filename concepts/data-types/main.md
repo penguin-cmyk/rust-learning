@@ -51,5 +51,13 @@
   let m = false;
 ```
 -------------------------------------
+-> Characters 
 
+- Rust chars type
+  - 4 bytes in size
+  - represents a UNICODE scalar value (*means that it can represent a lot more than just ascii*)
+```rust
+  let c: char = "z";
+  let carb = "🦀";
+```
 
