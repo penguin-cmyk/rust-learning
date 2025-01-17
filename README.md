@@ -1,4 +1,4 @@
-# rust-learning
+# 🦀 rust-learning
 
   
 - [🛠️] Stuff from the book I would just like to have in the repository for me to recap on.
