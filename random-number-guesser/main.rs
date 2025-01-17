@@ -1,4 +1,6 @@
 /*
+  [Chapter]
+  chapter="2"
   [dependencies]
   console = "0.15.10"
   rand = "0.8.5"
