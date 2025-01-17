@@ -8,7 +8,7 @@
     - booleans
     - characters
 -------------------------------------      
-Integer types in rust
+    Integer types in rust
 |  Length | Signed | Unsigned |    
 | ------- | -------| -------- |    
 | 8-bit   |  i8    | u8       |   
