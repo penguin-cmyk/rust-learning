@@ -48,7 +48,7 @@
   - they are specified using *bool*
 ```rust
   let f: bool = true;
-  let m = false;main.go
+  let m = false;
 ```
 -------------------------------------
 -> Characters 
