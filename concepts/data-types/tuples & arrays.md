@@ -28,7 +28,7 @@ let test_array = [1,2,3,4]; // not flexiable
 let first_item = test_array[0];
 
 println!("{first_item}"); // will print 1 since 1 is the first item stored in the array 
-/ *
+/*
   Vector example code
   will be going into the vector concept later on
 */
